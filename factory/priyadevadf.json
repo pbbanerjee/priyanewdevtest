@@ -1,0 +1,9 @@
+{
+	"name": "priyadevadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3ee2929e-5a5f-4ea3-a771-70550a0cecd9",
+		"tenantId": "9074b830-c04b-475b-aaec-02e35399df34"
+	}
+}
